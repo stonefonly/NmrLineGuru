@@ -31,7 +31,7 @@ However, it's often technically difficult to analyze the NMR lineshape data obta
 
 In the past years, We've been studying the dynamics of Syk tandem SH2 (tSH2) domains and Syk tSH2 interactions with dp-ITAM peptides. NMR lineshape analysis was used to investigate the dynamics and kinetics of each step in the related multi-state equilibrium:
 
-> C Feng and CB Post (2016). Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Physical Chemistry Chemical Physics 18 (8), 5807-5818. <a href="https://doi.org/10.1039/c5cp05417f" target="_blank">[DOI]</a> <a href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U" target="_blank">[PDF]</a>
+> C Feng and CB Post (2016). Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Physical Chemistry Chemical Physics 18 (8), 5807-5818. <a target="_blank" href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> <a target="_blank" href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
 
 During the study, several binding models were built mathematically and a batch of MATLAB code was developed to simulate/fit NMR lineshape data.
 
@@ -50,13 +50,13 @@ Please download the correct version and run the install file. During installatio
 
 **For Windows users:**
 
-+ Download and execute [**NmrLineGuru_2.0_Windows.exe**](https://forms.gle/pTGjZG1vS1rHyJas8), the 64-bit version for windows.
++ Download and execute **<a target="_blank" href="https://forms.gle/pTGjZG1vS1rHyJas8">NmrLineGuru_2.0_Windows.exe</a>**, the 64-bit version for windows.
 + During installation, select the option to create a shortcut for NmrLineGuru on the desktop. 
 + After installation, click the shortcut to start the program.
 
 **For Linux users**:
 
-+ Download and execute [**NmrLineGuru_2.0_Linux.install**](https://forms.gle/pTGjZG1vS1rHyJas8), the 64-bit version for Linux.
++ Download and execute <a target="_blank" href="https://forms.gle/pTGjZG1vS1rHyJas8">**NmrLineGuru_2.0_Linux.install**</a>, the 64-bit version for Linux.
 + During installation, please keep a note of the install path for both NmrLineGuru and MCR. You can install them to anywhere you like. 
 + After installation, run the following command in a shell to start NmrLineGuru:   
   `{NmrLineGuru_Root}/application/run_NmrLineGuru.sh  {MCR_Root}/v83`   
@@ -73,7 +73,7 @@ After starting the software, a GUI selector will appear:
 You'll need to select the binding model and action (simulate or fit). Then, the corresponding GUI will appear to simulate or fit NMR lineshape data with the specified model.
 
 Please follow the tutorials in our project Wiki for how to use these GUIs:   
-[https://github.com/stonefonly/NmrLineGuru/wiki](https://forms.gle/pTGjZG1vS1rHyJas8)
+[https://github.com/stonefonly/NmrLineGuru/wiki](https://github.com/stonefonly/NmrLineGuru/wiki)
 
 ## Citation and Contact Info
 
