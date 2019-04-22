@@ -56,7 +56,7 @@ Please download the correct version and run the install file. During installatio
 
 **For Linux users**:
 
-+ Download and execute <a target="_blank" href="https://forms.gle/pTGjZG1vS1rHyJas8">**NmrLineGuru_2.0_Linux.install**</a>, the 64-bit version for Linux.
++ Download and execute **<a target="_blank" href="https://forms.gle/pTGjZG1vS1rHyJas8">NmrLineGuru_2.0_Linux.install</a>**, the 64-bit version for Linux.
 + During installation, please keep a note of the install path for both NmrLineGuru and MCR. You can install them to anywhere you like. 
 + After installation, run the following command in a shell to start NmrLineGuru:   
   `{NmrLineGuru_Root}/application/run_NmrLineGuru.sh  {MCR_Root}/v83`   
@@ -73,7 +73,7 @@ After starting the software, a GUI selector will appear:
 You'll need to select the binding model and action (simulate or fit). Then, the corresponding GUI will appear to simulate or fit NMR lineshape data with the specified model.
 
 Please follow the tutorials in our project Wiki for how to use these GUIs:   
-[https://github.com/stonefonly/NmrLineGuru/wiki](https://github.com/stonefonly/NmrLineGuru/wiki)
+<a target="_blank" href="https://github.com/stonefonly/NmrLineGuru/wiki">https://github.com/stonefonly/NmrLineGuru/wiki</a>
 
 ## Citation and Contact Info
 
@@ -81,7 +81,7 @@ For academic use, please cite the following references if you used this software
 
 > C Feng, EL Kovrigin and CB Post (2019). NmrLineGuru: Standalone and User-Friendly GUIs for Fast 1D NMR Lineshape Simulation and Analysis of Multi-State Equilibrium Binding Models. Submitted to Scientific Reports.
 
-> C Feng and CB Post (2016). Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Physical Chemistry Chemical Physics 18 (8), 5807-5818. <a href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> <a href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
+> C Feng and CB Post (2016). Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Physical Chemistry Chemical Physics 18 (8), 5807-5818. <a target="_blank" href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> <a target="_blank" href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
 
 For commercial use, please contact us directly to obtain a license (Copyright @ Purdue Research Foundation, 2019)
 
