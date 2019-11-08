@@ -37,7 +37,7 @@ However, it's often technically difficult to analyze the NMR lineshape data obta
 
 In the past years, We've been studying the dynamics of Syk tandem SH2 (tSH2) domains and Syk tSH2 interactions with dp-ITAM peptides. NMR lineshape analysis was used to investigate the dynamics and kinetics of each step in the related multi-state equilibrium:
 
-> C Feng and CB Post (2016). Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Physical Chemistry Chemical Physics 18 (8), 5807-5818. 
+> Feng C, Post CB (2016) Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Phys Chem Chem Phys 18:5807–5818. 
 <a target="_blank" href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> 
 <a target="_blank" href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
 
@@ -96,7 +96,7 @@ You'll need to select the binding model and action (simulate or fit). Then, the 
 > Feng C, Kovrigin EL, Post CB (2019) NmrLineGuru: Standalone and User-Friendly GUIs for Fast 1D NMR Lineshape Simulation and Analysis of Multi-State Equilibrium Binding Models. Scientific Reports 9:16023.
 <a target="_blank" href="https://doi.org/10.1038/s41598-019-52451-8">[DOI]</a>
 
-> C Feng and CB Post (2016). Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Physical Chemistry Chemical Physics 18 (8), 5807-5818. 
+> Feng C, Post CB (2016) Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Phys Chem Chem Phys 18:5807–5818. 
 <a target="_blank" href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> 
 <a target="_blank" href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
 
