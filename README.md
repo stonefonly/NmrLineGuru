@@ -73,8 +73,8 @@ Please download and run the correct install file. During installation, please fo
   `{NmrLineGuru_Root}/application/run_NmrLineGuru.sh  {MCR_Root}/v83`   
   For example, you installed NmrLineGuru in */home/chao/NmrLineGuru* and MCR in */home/chao/mcr*. So the command line to start NmrLineGuru should be:   
   `/home/chao/NmrLineGuru/application/run_NmrLineGuru.sh  /home/chao/mcr/v83`   
-  You may optionally add an alias for this command in the shell starting script. Search *linux shell alias* for how-to.
-+ Note: the linux version was tested on Ubuntu 18.04. If you use a different linux release and experience problems of displaying or running the software, please try to install Ubuntu 18.04 in a physical or virtual machine and then install the software in it.  
+  You may optionally add an alias for this command in the shell starting script. Search *Linux shell alias* for how-to.
++ Note: the Linux version was tested on Ubuntu 18.04. If you use a different Linux release and experience problems of displaying or running the software, please try to install Ubuntu 18.04 in a physical or virtual machine and then install the software in it.  
 
 ## Main Startup Interface 
 
@@ -102,4 +102,4 @@ You'll need to select the binding model and action (simulate or fit). Then, the 
 
 **For commercial use**, please contact us directly to obtain a license (Copyright @ Purdue Research Foundation, 2019)
 
-Please email me (ustcfy 'AT' gmail 'DOT' com) if you have suggestions or need consulting service. 
+Please email me (ustcfy '[AT]' gmail '[DOT]' com) if you have suggestions or need consulting service. 
