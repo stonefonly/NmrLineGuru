@@ -4,6 +4,8 @@ Standalone and User-Friendly GUIs for Fast 1D NMR Lineshape Simulation and Analy
 
 Chao Feng, Ph.D., Nov 2019
 
+![](screenshots/NmrLineGuru-photo-caption-500.jpg)
+
 ## Version History
 
 2.0 --> 2.1
