@@ -93,6 +93,8 @@ You'll need to select the binding model and action (simulate or fit). Then, the 
 
 ## Citation, License, and Contact
 
+Copyright 2019 Purdue University All Rights Reserved.
+
 **For academic use**, please cite the following references if you used this software for your research or presentation. Your citation is the driving force for us to keep this tool online and work on future releases!
 
 > Feng C, Kovrigin EL, Post CB (2019) NmrLineGuru: Standalone and User-Friendly GUIs for Fast 1D NMR Lineshape Simulation and Analysis of Multi-State Equilibrium Binding Models. Scientific Reports 9:16023.
@@ -102,6 +104,8 @@ You'll need to select the binding model and action (simulate or fit). Then, the 
 <a target="_blank" href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> 
 <a target="_blank" href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
 
-**For commercial use**, please contact us directly to obtain a license (Copyright @ Purdue Research Foundation, 2019)
+Purdue University hereby grants you a limited, personal, revocable, nonexclusive, nonassignable, license and right to access and use NmrLineGuru as an end-user solely for your educational, academic, and scholarly endeavors. All commercial uses are excluded from this grant.
+
+**For commercial use**, please contact us at otcip@prf.org to obtain a license.
 
 Please email me (ustcfy '[AT]' gmail '[DOT]' com) if you have suggestions or need consulting service. 
