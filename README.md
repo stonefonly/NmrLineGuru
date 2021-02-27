@@ -41,7 +41,6 @@ In the past years, We've been studying the dynamics of Syk tandem SH2 (tSH2) dom
 
 > Feng C, Post CB (2016) Insights into the allosteric regulation of Syk association with receptor ITAM, a multi-state equilibrium. Phys Chem Chem Phys 18:5807–5818. 
 <a target="_blank" href="https://doi.org/10.1039/c5cp05417f">[DOI]</a> 
-<a target="_blank" href="https://drive.google.com/open?id=0B3uitI9T92-gaDhDdDU5WDhoT1U">[PDF]</a>
 
 > Feng C, Kovrigin EL, Post CB (2019) NmrLineGuru: Standalone and User-Friendly GUIs for Fast 1D NMR Lineshape Simulation and Analysis of Multi-State Equilibrium Binding Models. Scientific Reports 9:16023.
 <a target="_blank" href="https://doi.org/10.1038/s41598-019-52451-8">[DOI]</a>
