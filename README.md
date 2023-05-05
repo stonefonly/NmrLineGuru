@@ -109,6 +109,6 @@ Copyright 2019 Purdue University All Rights Reserved.
 
 Purdue University hereby grants you a limited, personal, revocable, nonexclusive, nonassignable, license and right to access and use NmrLineGuru as an end-user solely for your educational, academic, and scholarly endeavors. All commercial uses are excluded from this grant.
 
-**For commercial use**, please contact us at otcip@prf.org to obtain a license.
+**For commercial use**, please contact Purdue Research Foundation (otcip@prf.org) to obtain a license.
 
-Please email me (ustcfy '[AT]' gmail '[DOT]' com) if you have suggestions or need consulting service. 
+Please contact Post Lab (cbp AT purdue DOT edu) if you have suggestions or need consulting service. 
